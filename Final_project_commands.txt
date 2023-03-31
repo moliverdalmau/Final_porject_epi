@@ -100,7 +100,6 @@ wc -l analyses/peaks.analysis/genes.body.peaks.outside.*.ATAC_seq.bed
 
 
 
-            ###########################TASK 5.1#########################
 # Create a folder regulatory_elements inside epigenomics_uvic
 
 ## Go to epigenomics_uvic and create the folder
